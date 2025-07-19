@@ -22,6 +22,7 @@ defined( 'ABSPATH' ) || exit;
 			<li>— <?php esc_html_e( 'Maps JavaScript API', 'my-maps' ); ?><li>
 			<li>— <?php esc_html_e( 'Places API', 'my-maps' ); ?><li>
 			<li>— <?php esc_html_e( 'Geocoding API', 'my-maps' ); ?><li>
+			<li>— <?php esc_html_e( 'Maps Static API', 'my-maps' ); ?><li>
 		</ul>
 		<?php submit_button(); ?>
 	</form>
