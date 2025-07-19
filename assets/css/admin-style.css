@@ -1,0 +1,22 @@
+.wp-list-table {
+	.column-id {
+		width: 5%;
+	}
+
+	.column-date_create  {
+		width: 150px;
+	}
+}
+
+.plance-plugin-my-maps-form {
+	input[type=text] {
+		width: 100%;
+		max-width: 400px;
+	}
+}
+
+#my-map {
+	width: 100%;
+	height: 400px;
+	margin-top: 20px;
+}
