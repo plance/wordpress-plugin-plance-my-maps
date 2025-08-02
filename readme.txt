@@ -46,6 +46,9 @@ Currently, the plugin supports only one location per map based on an address.
 
 == Changelog ==
 
+= 1.1.2 =
+* Added support for installing a plugin for the multisite.
+
 = 1.1.1 =
 * Change help.
 
