@@ -2,8 +2,8 @@
 Contributors: plance
 Tags: shortcode, map, google maps, location, embed
 Requires at least: 4.0.0
-Tested up to: 6.8
-Stable tag: 1.1.1
+Tested up to: 6.9
+Stable tag: 1.1.3
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -45,6 +45,9 @@ Currently, the plugin supports only one location per map based on an address.
 2. Map creation form where you enter the map title and address.
 
 == Changelog ==
+
+= 1.1.3 =
+* Tested up to WordPress 6.9.0
 
 = 1.1.2 =
 * Added support for installing a plugin for the multisite.
